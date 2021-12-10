@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Beginner Python Projects (B2P)
 
-You can use the [editor on GitHub](https://github.com/t1soft/pythonbasicprojects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Site for B2P. This is a **Destination if you are looking for Simple Executables that are for the Python Language**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These Code Files are used to **give Examples or Show how the Python Language work**. It is **very easy** to try for yourself!
+
+
+1. **Get Python** by Clicking [Here.](https://www.python.org/)
+
+2. Download the Code Files by **Clicking on the buttons to the left**.
+
+3. If you want to look at the code, Get a **Text Editor** (Notepad, etc), or a **IDE that can run python code**. (VS Code, Notepad++, etc) 
+
+
+
 
 ### Markdown
 
